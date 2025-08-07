@@ -6,7 +6,7 @@
     "version": "6.8.2",
     "contact": {},
     "x-logo": {
-      "url": "../assets/logo.svg",
+      "url": "assets/logo.svg",
       "href": "https://github.com/TotalAccessHealth/e-pharmacy-api"
     }
   },
